@@ -42,16 +42,18 @@
 // }
 
 
-#include <iostream>
-#include <string>
-int rover{70};
-int main()
-{
-{
-    int rover{10};
-    std::cout << "Inner rover:" << rover << '\n';
-}
-    std::cout << "Outher rover:" << rover << '\n';
-    return 0;
+// #include <iostream>
+// #include <string>
+// int rover{70};
+// int main()
+// {
+// {
+//     int rover{10};
+//     std::cout << "Inner rover:" << rover << '\n';
+// }
+//     std::cout << "Outher rover:" << rover << '\n';
+//     return 0;
 
-}
+// }
+
+
